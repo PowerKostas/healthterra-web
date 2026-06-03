@@ -14,3 +14,9 @@
 .project-tagline {
   font-size: 1rem;
 }
+
+.page-header .btn {
+  padding: 0.4rem 0.8rem; /* Makes the box itself thinner and narrower */
+  font-size: 0.85rem;     /* Makes the text slightly smaller than the tagline */
+  margin-top: 0.5rem;     /* Reduces the gap above the button */
+}
