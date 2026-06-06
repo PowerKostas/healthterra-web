@@ -4,7 +4,7 @@ layout: default
 
 # Privacy Policy
 
-This privacy policy is applicable to the GoHealth app for mobile devices, together with any related services operated by Konstantinos Vrousgos (collectively, the "Application"). Konstantinos Vrousgos is hereinafter referred to as the "Service Provider".
+This privacy policy is applicable to the Healthterra app for mobile devices, together with any related services operated by Konstantinos Vrousgos (collectively, the "Application"). Konstantinos Vrousgos is hereinafter referred to as the "Service Provider".
 
 ## Data Controller Information
 
