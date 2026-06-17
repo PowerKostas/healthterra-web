@@ -89,7 +89,7 @@ The Application is designed for informational, educational, and general wellness
 
 The calculations, health records, exercise trackers, and goals provided within the Application (including, but not limited to, water, calorie, exercise and step tracking) are estimates and should not be used as a substitute for professional medical judgment. Always consult a qualified healthcare provider before starting any new fitness or dietary program. You agree that your use of the Application and reliance on any of its features is entirely at your own risk, and the Service Provider assumes no liability for health consequences resulting from the misuse of the Application.
 
-##
+## Virtual Achievements and Badges
 
 Any virtual badges, achievements, or milestones unlocked within the Application are purely for motivational and entertainment purposes, they remain the sole intellectual property of the Service Provider, and hold no monetary or real-world value.
 
