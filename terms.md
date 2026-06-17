@@ -67,6 +67,8 @@ The Service Provider is dedicated to ensuring that the Application is as benefic
 
 The Application stores and processes personal data that you have provided to the Service Provider in order to provide the Service. It is your responsibility to maintain the security of your phone and access to the Application. The Service Provider strongly advises against jailbreaking or rooting your phone, which involves removing software restrictions and limitations imposed by the official operating system of your device. Such actions could expose your phone to malware, viruses, malicious programs, compromise your phone's security features, and may result in the Application not functioning correctly or at all.
 
+If you choose to create a permanent account using Google Sign-In, you are responsible for maintaining the confidentiality of your Google account credentials and for restricting access to your mobile device. You agree to accept responsibility for all activities that occur under your authenticated account.
+
 Please note that the Application utilizes third-party services that have their own Terms and Conditions. Below are the links to the Terms and Conditions of the third-party service providers used by the Application:
 
 - [Google Play Services](https://policies.google.com/terms)
@@ -85,7 +87,11 @@ Nothing in these Terms shall limit any rights you have under applicable consumer
 
 The Application is designed for informational, educational, and general wellness purposes only. The Service Provider is not a licensed medical professional, and the Application does not provide medical advice, diagnosis, or treatment. 
 
-The calculations, health records, exercise trackers, and goals provided within the Application (including, but not limited to, calorie, water, and fitness tracking) are estimates and should not be used as a substitute for professional medical judgment. Always consult a qualified healthcare provider before starting any new fitness or dietary program. You agree that your use of the Application and reliance on any of its features is entirely at your own risk, and the Service Provider assumes no liability for health consequences resulting from the misuse of the Application.
+The calculations, health records, exercise trackers, and goals provided within the Application (including, but not limited to, water, calorie, exercise and step tracking) are estimates and should not be used as a substitute for professional medical judgment. Always consult a qualified healthcare provider before starting any new fitness or dietary program. You agree that your use of the Application and reliance on any of its features is entirely at your own risk, and the Service Provider assumes no liability for health consequences resulting from the misuse of the Application.
+
+##
+
+Any virtual badges, achievements, or milestones unlocked within the Application are purely for motivational and entertainment purposes, they remain the sole intellectual property of the Service Provider, and hold no monetary or real-world value.
 
 ## Limitation of Liability
 

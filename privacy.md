@@ -21,12 +21,13 @@ For data protection inquiries and to exercise your GDPR rights, please contact t
 The Application collects the following categories of personal data:
 
 **User-provided data:**
--Profile identifiers, such as a username chosen by you during profile setup
--Physical characteristics and fitness profile data, such as age, gender, height, weight, and activity level
--Daily health and wellness records, including but not limited to calorie intake, water intake, and exercise activity
+- Profile identifiers, such as a username chosen by you during profile setup
+- Physical characteristics and fitness profile data, such as age, gender, height, weight, and activity level
+- Historical health and wellness records, including but not limited to, water intake, calorie intake, exercise activity, step counts, and earned achievements
 
-**Automatically generated data:**
-- An anonymous user identifier generated automatically by Firebase Authentication. This identifier is not linked to your name, email address, or any other directly identifying information.
+**Authentication and Account data:**
+- **For Anonymous Users:** An anonymous user identifier generated automatically by Firebase Authentication. This identifier is not linked to your name, email address, or any other directly identifying information.
+- **For Google Sign-In Users:** If you choose to authenticate via Google, Firebase Authentication processes your Google account tokens, providing the Application with your email address, full name, and an authenticated user ID. This allows your entire account profile, health and wellness logs (including water, calories, steps, and exercises), historical data records and unlocked achievements to be securely saved, synced, and restored across devices.
 
 **Leaderboard data:**
 - If you explicitly opt-in via the Application's settings or profile setup, your username and health performance scores are stored in Firebase Cloud Firestore and are visible to other users of the Application through the leaderboard feature. If you do not opt-in, your data remains private and is not shared with the leaderboard.
@@ -34,7 +35,7 @@ The Application collects the following categories of personal data:
 **Device and usage data:**
 - Technical and diagnostic data, including but not limited to device type, mobile operating system, unique device identifier, IP address, and application usage metrics. This data is collected automatically by the Application and its third-party SDKs.
 
-The Application does not collect your email address, phone number, or real name.
+The Application does not collect your phone number. If you use the Application anonymously, it does not collect your email address or real name. However, if you choose to sign in using your Google Account, the Application will collect the email address and name associated with that account to facilitate account creation, data synchronization, and account recovery.
 
 The Service Provider uses this information solely to provide and improve the Application's features. The Service Provider does not use this information to send marketing communications.
 
@@ -113,7 +114,7 @@ Alternatively, you can stop all further data collection by uninstalling the Appl
 The Service Provider retains your personal data only for as long as it is necessary to provide the Application's features:
 
 - **Local data** (including, but not limited to, health records, profile information, and app settings): Stored on your device and retained until you delete your account using the in-app "Delete Account" feature or uninstall the Application.
-- **Firebase data** (anonymous user identifier, username, leaderboard scores): Retained until you delete your account using the in-app "Delete Account" feature, or until you contact the Service Provider to request deletion.
+- **Firebase data** (including, but not limited to, your anonymous user identifier, Google account email and name if provided, custom username, physical characteristics, health logs, historical data entries and unlocked achievements): Retained securely on Firebase servers to ensure seamless data backup and account recovery across device reinstalls. This data is permanently and completely removed when you utilize the in-app "Delete Account" feature or contact the Service Provider to request deletion[cite: 2].
 - **Aggregated and anonymized data**: May be retained indefinitely as it no longer identifies you.
 - **Data required for legal compliance**: Retained for as long as required by applicable law.
 
